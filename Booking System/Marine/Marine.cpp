@@ -4,21 +4,16 @@
 #include <iostream>
 #include <cstdlib>
 #include <list>
-#include <cassert>
-#include <thread>
 using namespace std;
 void RenderCustomers();
 list<int> L;
-void MainMenu();
-
-#include "Scheduler.cpp";
 string selection = "Menu";
+#include "Scheduler.cpp";
 
-Scheduler scheduler;
-Main MainM;
-class Main 
+class Home
 {
-public:
+    
+    public:
     void MainMenu()
     {
         while (selection == "Menu")
@@ -55,25 +50,19 @@ public:
 
         }
     }
-  
-  
-    
+    typedef void (Home::* Scheduler)();
+    Scheduler Menu = &Home::MainMenu;
 };
+
 int main()
 {
    
     L.push_back(14); L.push_back(5); L.push_back(22);
 
     L.push_back(1); L.push_back(1); L.push_back(-7);
-    scheduler.RunProgram();
+    //scheduler.RunProgram();
     
-
     
-
-
-   
-    
-
     system("pause");
     return 0;
 }
@@ -137,6 +126,7 @@ void RenderCustomers()
         }
     }
 }
+
 
 
 // Run program: Ctrl + F5 or Debug > Start Without Debugging menu
