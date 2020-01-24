@@ -6,11 +6,7 @@ class Scheduler
 { 
 
 	
-public:
-	void RunProgram()
-	{
-		Home::MainMenu; // It gets underlined
-	}
+
 
 
 

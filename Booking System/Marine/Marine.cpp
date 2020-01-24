@@ -8,12 +8,12 @@ using namespace std;
 void RenderCustomers();
 list<int> L;
 string selection = "Menu";
-#include "Scheduler.cpp";
-
+#include "Scheduler.h";
 class Home
 {
     
     public:
+    
     void MainMenu()
     {
         while (selection == "Menu")
@@ -50,17 +50,20 @@ class Home
 
         }
     }
-    typedef void (Home::* Scheduler)();
-    Scheduler Menu = &Home::MainMenu;
+
 };
 
 int main()
 {
+    Scheduler scheduler;
+    Home home;
+    scheduler.home = home;     
+    scheduler.RunProgram();
    
     L.push_back(14); L.push_back(5); L.push_back(22);
 
     L.push_back(1); L.push_back(1); L.push_back(-7);
-    //scheduler.RunProgram();
+    
     
     
     system("pause");
