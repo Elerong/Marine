@@ -2,9 +2,18 @@
 C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Marine.cpp(11,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
 C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Scheduler.h(1,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
 C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Scheduler.h(2,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
-C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Scheduler.h(10,11): error C3646: 'home': unknown override specifier
-C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Scheduler.h(10,11): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Scheduler.h(7,11): error C3646: 'home': unknown override specifier
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Scheduler.h(7,11): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Scheduler.h(11,20): error C2061: syntax error: identifier 'Home'
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Scheduler.h(15,14): error C3646: 'gethome': unknown override specifier
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Scheduler.h(15,14): error C2059: syntax error: '('
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Scheduler.h(16,2): error C2334: unexpected token(s) preceding '{'; skipping apparent function body
 C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Scheduler.h(13,3): error C2065: 'home': undeclared identifier
-C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Marine.cpp(60,20): error C2039: 'home': is not a member of 'Scheduler'
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Scheduler.h(13,10): error C2065: 'x': undeclared identifier
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Marine.cpp(59,22): error C2039: 'gethome': is not a member of 'Scheduler'
 C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Scheduler.h(5): message : see declaration of 'Scheduler'
-C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Marine.cpp(90,43): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Marine.cpp(89,43): warning C4018: '<': signed/unsigned mismatch
+  Scheduler.cpp
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Scheduler.cpp(1,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Scheduler.cpp(2,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  Generating Code...

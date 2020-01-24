@@ -13,7 +13,6 @@ class Home
 {
     
     public:
-    
     void MainMenu()
     {
         while (selection == "Menu")
@@ -57,7 +56,7 @@ int main()
 {
     Scheduler scheduler;
     Home home;
-    scheduler.home = home;     
+    scheduler.gethome(home);
     scheduler.RunProgram();
    
     L.push_back(14); L.push_back(5); L.push_back(22);
