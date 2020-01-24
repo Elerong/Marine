@@ -1,3 +1,1220 @@
 ﻿  Marine.cpp
-C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Marine.cpp(45,43): warning C4018: '<': signed/unsigned mismatch
-  Marine.vcxproj -> C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Debug\Marine.exe
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Marine.cpp(14,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Scheduler.cpp(1,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Scheduler.cpp(2,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Scheduler.cpp(3,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Marine.cpp(11,11): error C2086: 'std::list<int,std::allocator<int>> L': redefinition
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Marine.cpp(11): message : see declaration of 'L'
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Marine.cpp(14,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Scheduler.cpp(1,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Scheduler.cpp(2,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Scheduler.cpp(3,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Marine.cpp(11,11): error C2086: 'std::list<int,std::allocator<int>> L': redefinition
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Marine.cpp(11): message : see declaration of 'L'
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Marine.cpp(14,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Scheduler.cpp(1,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Scheduler.cpp(2,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Scheduler.cpp(3,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Marine.cpp(11,11): error C2086: 'std::list<int,std::allocator<int>> L': redefinition
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Marine.cpp(11): message : see declaration of 'L'
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Marine.cpp(14,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Scheduler.cpp(1,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Scheduler.cpp(2,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Scheduler.cpp(3,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Marine.cpp(11,11): error C2086: 'std::list<int,std::allocator<int>> L': redefinition
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Marine.cpp(11): message : see declaration of 'L'
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Marine.cpp(14,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Scheduler.cpp(1,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Scheduler.cpp(2,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Scheduler.cpp(3,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Marine.cpp(11,11): error C2086: 'std::list<int,std::allocator<int>> L': redefinition
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Marine.cpp(11): message : see declaration of 'L'
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Marine.cpp(14,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Scheduler.cpp(1,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Scheduler.cpp(2,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Scheduler.cpp(3,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Marine.cpp(11,11): error C2086: 'std::list<int,std::allocator<int>> L': redefinition
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Marine.cpp(11): message : see declaration of 'L'
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Marine.cpp(14,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Scheduler.cpp(1,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Scheduler.cpp(2,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Scheduler.cpp(3,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Marine.cpp(11,11): error C2086: 'std::list<int,std::allocator<int>> L': redefinition
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Marine.cpp(11): message : see declaration of 'L'
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Marine.cpp(14,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Scheduler.cpp(1,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Scheduler.cpp(2,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Scheduler.cpp(3,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Marine.cpp(11,11): error C2086: 'std::list<int,std::allocator<int>> L': redefinition
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Marine.cpp(11): message : see declaration of 'L'
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Marine.cpp(14,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Scheduler.cpp(1,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Scheduler.cpp(2,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Scheduler.cpp(3,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Marine.cpp(11,11): error C2086: 'std::list<int,std::allocator<int>> L': redefinition
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Marine.cpp(11): message : see declaration of 'L'
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Marine.cpp(14,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Scheduler.cpp(1,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Scheduler.cpp(2,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Scheduler.cpp(3,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Marine.cpp(11,11): error C2086: 'std::list<int,std::allocator<int>> L': redefinition
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Marine.cpp(11): message : see declaration of 'L'
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Marine.cpp(14,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Scheduler.cpp(1,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Scheduler.cpp(2,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Scheduler.cpp(3,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Marine.cpp(11,11): error C2086: 'std::list<int,std::allocator<int>> L': redefinition
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Marine.cpp(11): message : see declaration of 'L'
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Marine.cpp(14,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Scheduler.cpp(1,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Scheduler.cpp(2,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Scheduler.cpp(3,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Marine.cpp(11,11): error C2086: 'std::list<int,std::allocator<int>> L': redefinition
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Marine.cpp(11): message : see declaration of 'L'
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Marine.cpp(14,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Scheduler.cpp(1,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Scheduler.cpp(2,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Scheduler.cpp(3,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Marine.cpp(11,11): error C2086: 'std::list<int,std::allocator<int>> L': redefinition
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Marine.cpp(11): message : see declaration of 'L'
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Marine.cpp(14,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Scheduler.cpp(1,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Scheduler.cpp(2,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Scheduler.cpp(3,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Marine.cpp(11,11): error C2086: 'std::list<int,std::allocator<int>> L': redefinition
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Marine.cpp(11): message : see declaration of 'L'
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Marine.cpp(14,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Scheduler.cpp(1,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Scheduler.cpp(2,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Scheduler.cpp(3,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Marine.cpp(11,11): error C2086: 'std::list<int,std::allocator<int>> L': redefinition
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Marine.cpp(11): message : see declaration of 'L'
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Marine.cpp(14,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Scheduler.cpp(1,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Scheduler.cpp(2,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Scheduler.cpp(3,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Marine.cpp(11,11): error C2086: 'std::list<int,std::allocator<int>> L': redefinition
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Marine.cpp(11): message : see declaration of 'L'
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Marine.cpp(14,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Scheduler.cpp(1,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Scheduler.cpp(2,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Scheduler.cpp(3,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Marine.cpp(11,11): error C2086: 'std::list<int,std::allocator<int>> L': redefinition
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Marine.cpp(11): message : see declaration of 'L'
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Marine.cpp(14,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Scheduler.cpp(1,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Scheduler.cpp(2,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Scheduler.cpp(3,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Marine.cpp(11,11): error C2086: 'std::list<int,std::allocator<int>> L': redefinition
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Marine.cpp(11): message : see declaration of 'L'
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Marine.cpp(14,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Scheduler.cpp(1,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Scheduler.cpp(2,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Scheduler.cpp(3,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Marine.cpp(11,11): error C2086: 'std::list<int,std::allocator<int>> L': redefinition
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Marine.cpp(11): message : see declaration of 'L'
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Marine.cpp(14,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Scheduler.cpp(1,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Scheduler.cpp(2,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Scheduler.cpp(3,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Marine.cpp(11,11): error C2086: 'std::list<int,std::allocator<int>> L': redefinition
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Marine.cpp(11): message : see declaration of 'L'
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Marine.cpp(14,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Scheduler.cpp(1,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Scheduler.cpp(2,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Scheduler.cpp(3,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Marine.cpp(11,11): error C2086: 'std::list<int,std::allocator<int>> L': redefinition
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Marine.cpp(11): message : see declaration of 'L'
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Marine.cpp(14,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Scheduler.cpp(1,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Scheduler.cpp(2,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Scheduler.cpp(3,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Marine.cpp(11,11): error C2086: 'std::list<int,std::allocator<int>> L': redefinition
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Marine.cpp(11): message : see declaration of 'L'
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Marine.cpp(14,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Scheduler.cpp(1,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Scheduler.cpp(2,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Scheduler.cpp(3,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Marine.cpp(11,11): error C2086: 'std::list<int,std::allocator<int>> L': redefinition
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Marine.cpp(11): message : see declaration of 'L'
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Marine.cpp(14,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Scheduler.cpp(1,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Scheduler.cpp(2,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Scheduler.cpp(3,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Marine.cpp(11,11): error C2086: 'std::list<int,std::allocator<int>> L': redefinition
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Marine.cpp(11): message : see declaration of 'L'
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Marine.cpp(14,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Scheduler.cpp(1,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Scheduler.cpp(2,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Scheduler.cpp(3,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Marine.cpp(11,11): error C2086: 'std::list<int,std::allocator<int>> L': redefinition
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Marine.cpp(11): message : see declaration of 'L'
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Marine.cpp(14,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Scheduler.cpp(1,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Scheduler.cpp(2,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Scheduler.cpp(3,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Marine.cpp(11,11): error C2086: 'std::list<int,std::allocator<int>> L': redefinition
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Marine.cpp(11): message : see declaration of 'L'
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Marine.cpp(14,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Scheduler.cpp(1,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Scheduler.cpp(2,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Scheduler.cpp(3,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Marine.cpp(11,11): error C2086: 'std::list<int,std::allocator<int>> L': redefinition
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Marine.cpp(11): message : see declaration of 'L'
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Marine.cpp(14,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Scheduler.cpp(1,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Scheduler.cpp(2,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Scheduler.cpp(3,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Marine.cpp(11,11): error C2086: 'std::list<int,std::allocator<int>> L': redefinition
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Marine.cpp(11): message : see declaration of 'L'
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Marine.cpp(14,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Scheduler.cpp(1,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Scheduler.cpp(2,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Scheduler.cpp(3,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Marine.cpp(11,11): error C2086: 'std::list<int,std::allocator<int>> L': redefinition
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Marine.cpp(11): message : see declaration of 'L'
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Marine.cpp(14,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Scheduler.cpp(1,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Scheduler.cpp(2,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Scheduler.cpp(3,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Marine.cpp(11,11): error C2086: 'std::list<int,std::allocator<int>> L': redefinition
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Marine.cpp(11): message : see declaration of 'L'
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Marine.cpp(14,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Scheduler.cpp(1,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Scheduler.cpp(2,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Scheduler.cpp(3,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Marine.cpp(11,11): error C2086: 'std::list<int,std::allocator<int>> L': redefinition
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Marine.cpp(11): message : see declaration of 'L'
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Marine.cpp(14,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Scheduler.cpp(1,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Scheduler.cpp(2,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Scheduler.cpp(3,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Marine.cpp(11,11): error C2086: 'std::list<int,std::allocator<int>> L': redefinition
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Marine.cpp(11): message : see declaration of 'L'
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Marine.cpp(14,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Scheduler.cpp(1,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Scheduler.cpp(2,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Scheduler.cpp(3,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Marine.cpp(11,11): error C2086: 'std::list<int,std::allocator<int>> L': redefinition
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Marine.cpp(11): message : see declaration of 'L'
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Marine.cpp(14,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Scheduler.cpp(1,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Scheduler.cpp(2,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Scheduler.cpp(3,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Marine.cpp(11,11): error C2086: 'std::list<int,std::allocator<int>> L': redefinition
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Marine.cpp(11): message : see declaration of 'L'
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Marine.cpp(14,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Scheduler.cpp(1,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Scheduler.cpp(2,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Scheduler.cpp(3,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Marine.cpp(11,11): error C2086: 'std::list<int,std::allocator<int>> L': redefinition
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Marine.cpp(11): message : see declaration of 'L'
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Marine.cpp(14,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Scheduler.cpp(1,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Scheduler.cpp(2,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Scheduler.cpp(3,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Marine.cpp(11,11): error C2086: 'std::list<int,std::allocator<int>> L': redefinition
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Marine.cpp(11): message : see declaration of 'L'
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Marine.cpp(14,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Scheduler.cpp(1,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Scheduler.cpp(2,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Scheduler.cpp(3,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Marine.cpp(11,11): error C2086: 'std::list<int,std::allocator<int>> L': redefinition
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Marine.cpp(11): message : see declaration of 'L'
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Marine.cpp(14,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Scheduler.cpp(1,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Scheduler.cpp(2,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Scheduler.cpp(3,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Marine.cpp(11,11): error C2086: 'std::list<int,std::allocator<int>> L': redefinition
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Marine.cpp(11): message : see declaration of 'L'
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Marine.cpp(14,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Scheduler.cpp(1,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Scheduler.cpp(2,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Scheduler.cpp(3,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Marine.cpp(11,11): error C2086: 'std::list<int,std::allocator<int>> L': redefinition
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Marine.cpp(11): message : see declaration of 'L'
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Marine.cpp(14,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Scheduler.cpp(1,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Scheduler.cpp(2,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Scheduler.cpp(3,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Marine.cpp(11,11): error C2086: 'std::list<int,std::allocator<int>> L': redefinition
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Marine.cpp(11): message : see declaration of 'L'
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Marine.cpp(14,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Scheduler.cpp(1,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Scheduler.cpp(2,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Scheduler.cpp(3,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Marine.cpp(11,11): error C2086: 'std::list<int,std::allocator<int>> L': redefinition
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Marine.cpp(11): message : see declaration of 'L'
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Marine.cpp(14,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Scheduler.cpp(1,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Scheduler.cpp(2,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Scheduler.cpp(3,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Marine.cpp(11,11): error C2086: 'std::list<int,std::allocator<int>> L': redefinition
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Marine.cpp(11): message : see declaration of 'L'
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Marine.cpp(14,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Scheduler.cpp(1,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Scheduler.cpp(2,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Scheduler.cpp(3,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Marine.cpp(11,11): error C2086: 'std::list<int,std::allocator<int>> L': redefinition
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Marine.cpp(11): message : see declaration of 'L'
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Marine.cpp(14,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Scheduler.cpp(1,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Scheduler.cpp(2,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Scheduler.cpp(3,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Marine.cpp(11,11): error C2086: 'std::list<int,std::allocator<int>> L': redefinition
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Marine.cpp(11): message : see declaration of 'L'
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Marine.cpp(14,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Scheduler.cpp(1,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Scheduler.cpp(2,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Scheduler.cpp(3,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Marine.cpp(11,11): error C2086: 'std::list<int,std::allocator<int>> L': redefinition
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Marine.cpp(11): message : see declaration of 'L'
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Marine.cpp(14,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Scheduler.cpp(1,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Scheduler.cpp(2,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Scheduler.cpp(3,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Marine.cpp(11,11): error C2086: 'std::list<int,std::allocator<int>> L': redefinition
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Marine.cpp(11): message : see declaration of 'L'
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Marine.cpp(14,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Scheduler.cpp(1,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Scheduler.cpp(2,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Scheduler.cpp(3,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Marine.cpp(11,11): error C2086: 'std::list<int,std::allocator<int>> L': redefinition
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Marine.cpp(11): message : see declaration of 'L'
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Marine.cpp(14,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Scheduler.cpp(1,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Scheduler.cpp(2,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Scheduler.cpp(3,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Marine.cpp(11,11): error C2086: 'std::list<int,std::allocator<int>> L': redefinition
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Marine.cpp(11): message : see declaration of 'L'
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Marine.cpp(14,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Scheduler.cpp(1,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Scheduler.cpp(2,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Scheduler.cpp(3,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Marine.cpp(11,11): error C2086: 'std::list<int,std::allocator<int>> L': redefinition
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Marine.cpp(11): message : see declaration of 'L'
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Marine.cpp(14,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Scheduler.cpp(1,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Scheduler.cpp(2,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Scheduler.cpp(3,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Marine.cpp(11,11): error C2086: 'std::list<int,std::allocator<int>> L': redefinition
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Marine.cpp(11): message : see declaration of 'L'
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Marine.cpp(14,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Scheduler.cpp(1,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Scheduler.cpp(2,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Scheduler.cpp(3,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Marine.cpp(11,11): error C2086: 'std::list<int,std::allocator<int>> L': redefinition
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Marine.cpp(11): message : see declaration of 'L'
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Marine.cpp(14,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Scheduler.cpp(1,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Scheduler.cpp(2,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Scheduler.cpp(3,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Marine.cpp(11,11): error C2086: 'std::list<int,std::allocator<int>> L': redefinition
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Marine.cpp(11): message : see declaration of 'L'
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Marine.cpp(14,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Scheduler.cpp(1,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Scheduler.cpp(2,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Scheduler.cpp(3,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Marine.cpp(11,11): error C2086: 'std::list<int,std::allocator<int>> L': redefinition
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Marine.cpp(11): message : see declaration of 'L'
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Marine.cpp(14,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Scheduler.cpp(1,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Scheduler.cpp(2,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Scheduler.cpp(3,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Marine.cpp(11,11): error C2086: 'std::list<int,std::allocator<int>> L': redefinition
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Marine.cpp(11): message : see declaration of 'L'
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Marine.cpp(14,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Scheduler.cpp(1,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Scheduler.cpp(2,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Scheduler.cpp(3,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Marine.cpp(11,11): error C2086: 'std::list<int,std::allocator<int>> L': redefinition
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Marine.cpp(11): message : see declaration of 'L'
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Marine.cpp(14,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Scheduler.cpp(1,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Scheduler.cpp(2,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Scheduler.cpp(3,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Marine.cpp(11,11): error C2086: 'std::list<int,std::allocator<int>> L': redefinition
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Marine.cpp(11): message : see declaration of 'L'
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Marine.cpp(14,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Scheduler.cpp(1,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Scheduler.cpp(2,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Scheduler.cpp(3,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Marine.cpp(11,11): error C2086: 'std::list<int,std::allocator<int>> L': redefinition
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Marine.cpp(11): message : see declaration of 'L'
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Marine.cpp(14,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Scheduler.cpp(1,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Scheduler.cpp(2,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Scheduler.cpp(3,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Marine.cpp(11,11): error C2086: 'std::list<int,std::allocator<int>> L': redefinition
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Marine.cpp(11): message : see declaration of 'L'
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Marine.cpp(14,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Scheduler.cpp(1,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Scheduler.cpp(2,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Scheduler.cpp(3,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Marine.cpp(11,11): error C2086: 'std::list<int,std::allocator<int>> L': redefinition
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Marine.cpp(11): message : see declaration of 'L'
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Marine.cpp(14,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Scheduler.cpp(1,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Scheduler.cpp(2,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Scheduler.cpp(3,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Marine.cpp(11,11): error C2086: 'std::list<int,std::allocator<int>> L': redefinition
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Marine.cpp(11): message : see declaration of 'L'
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Marine.cpp(14,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Scheduler.cpp(1,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Scheduler.cpp(2,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Scheduler.cpp(3,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Marine.cpp(11,11): error C2086: 'std::list<int,std::allocator<int>> L': redefinition
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Marine.cpp(11): message : see declaration of 'L'
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Marine.cpp(14,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Scheduler.cpp(1,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Scheduler.cpp(2,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Scheduler.cpp(3,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Marine.cpp(11,11): error C2086: 'std::list<int,std::allocator<int>> L': redefinition
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Marine.cpp(11): message : see declaration of 'L'
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Marine.cpp(14,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Scheduler.cpp(1,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Scheduler.cpp(2,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Scheduler.cpp(3,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Marine.cpp(11,11): error C2086: 'std::list<int,std::allocator<int>> L': redefinition
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Marine.cpp(11): message : see declaration of 'L'
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Marine.cpp(14,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Scheduler.cpp(1,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Scheduler.cpp(2,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Scheduler.cpp(3,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Marine.cpp(11,11): error C2086: 'std::list<int,std::allocator<int>> L': redefinition
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Marine.cpp(11): message : see declaration of 'L'
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Marine.cpp(14,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Scheduler.cpp(1,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Scheduler.cpp(2,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Scheduler.cpp(3,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Marine.cpp(11,11): error C2086: 'std::list<int,std::allocator<int>> L': redefinition
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Marine.cpp(11): message : see declaration of 'L'
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Marine.cpp(14,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Scheduler.cpp(1,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Scheduler.cpp(2,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Scheduler.cpp(3,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Marine.cpp(11,11): error C2086: 'std::list<int,std::allocator<int>> L': redefinition
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Marine.cpp(11): message : see declaration of 'L'
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Marine.cpp(14,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Scheduler.cpp(1,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Scheduler.cpp(2,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Scheduler.cpp(3,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Marine.cpp(11,11): error C2086: 'std::list<int,std::allocator<int>> L': redefinition
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Marine.cpp(11): message : see declaration of 'L'
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Marine.cpp(14,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Scheduler.cpp(1,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Scheduler.cpp(2,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Scheduler.cpp(3,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Marine.cpp(11,11): error C2086: 'std::list<int,std::allocator<int>> L': redefinition
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Marine.cpp(11): message : see declaration of 'L'
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Marine.cpp(14,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Scheduler.cpp(1,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Scheduler.cpp(2,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Scheduler.cpp(3,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Marine.cpp(11,11): error C2086: 'std::list<int,std::allocator<int>> L': redefinition
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Marine.cpp(11): message : see declaration of 'L'
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Marine.cpp(14,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Scheduler.cpp(1,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Scheduler.cpp(2,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Scheduler.cpp(3,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Marine.cpp(11,11): error C2086: 'std::list<int,std::allocator<int>> L': redefinition
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Marine.cpp(11): message : see declaration of 'L'
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Marine.cpp(14,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Scheduler.cpp(1,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Scheduler.cpp(2,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Scheduler.cpp(3,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Marine.cpp(11,11): error C2086: 'std::list<int,std::allocator<int>> L': redefinition
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Marine.cpp(11): message : see declaration of 'L'
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Marine.cpp(14,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Scheduler.cpp(1,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Scheduler.cpp(2,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Scheduler.cpp(3,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Marine.cpp(11,11): error C2086: 'std::list<int,std::allocator<int>> L': redefinition
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Marine.cpp(11): message : see declaration of 'L'
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Marine.cpp(14,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Scheduler.cpp(1,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Scheduler.cpp(2,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Scheduler.cpp(3,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Marine.cpp(11,11): error C2086: 'std::list<int,std::allocator<int>> L': redefinition
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Marine.cpp(11): message : see declaration of 'L'
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Marine.cpp(14,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Scheduler.cpp(1,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Scheduler.cpp(2,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Scheduler.cpp(3,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Marine.cpp(11,11): error C2086: 'std::list<int,std::allocator<int>> L': redefinition
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Marine.cpp(11): message : see declaration of 'L'
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Marine.cpp(14,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Scheduler.cpp(1,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Scheduler.cpp(2,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Scheduler.cpp(3,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Marine.cpp(11,11): error C2086: 'std::list<int,std::allocator<int>> L': redefinition
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Marine.cpp(11): message : see declaration of 'L'
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Marine.cpp(14,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Scheduler.cpp(1,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Scheduler.cpp(2,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Scheduler.cpp(3,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Marine.cpp(11,11): error C2086: 'std::list<int,std::allocator<int>> L': redefinition
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Marine.cpp(11): message : see declaration of 'L'
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Marine.cpp(14,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Scheduler.cpp(1,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Scheduler.cpp(2,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Scheduler.cpp(3,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Marine.cpp(11,11): error C2086: 'std::list<int,std::allocator<int>> L': redefinition
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Marine.cpp(11): message : see declaration of 'L'
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Marine.cpp(14,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Scheduler.cpp(1,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Scheduler.cpp(2,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Scheduler.cpp(3,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Marine.cpp(11,11): error C2086: 'std::list<int,std::allocator<int>> L': redefinition
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Marine.cpp(11): message : see declaration of 'L'
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Marine.cpp(14,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Scheduler.cpp(1,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Scheduler.cpp(2,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Scheduler.cpp(3,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Marine.cpp(11,11): error C2086: 'std::list<int,std::allocator<int>> L': redefinition
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Marine.cpp(11): message : see declaration of 'L'
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Marine.cpp(14,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Scheduler.cpp(1,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Scheduler.cpp(2,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Scheduler.cpp(3,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Marine.cpp(11,11): error C2086: 'std::list<int,std::allocator<int>> L': redefinition
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Marine.cpp(11): message : see declaration of 'L'
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Marine.cpp(14,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Scheduler.cpp(1,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Scheduler.cpp(2,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Scheduler.cpp(3,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Marine.cpp(11,11): error C2086: 'std::list<int,std::allocator<int>> L': redefinition
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Marine.cpp(11): message : see declaration of 'L'
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Marine.cpp(14,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Scheduler.cpp(1,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Scheduler.cpp(2,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Scheduler.cpp(3,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Marine.cpp(11,11): error C2086: 'std::list<int,std::allocator<int>> L': redefinition
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Marine.cpp(11): message : see declaration of 'L'
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Marine.cpp(14,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Scheduler.cpp(1,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Scheduler.cpp(2,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Scheduler.cpp(3,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Marine.cpp(11,11): error C2086: 'std::list<int,std::allocator<int>> L': redefinition
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Marine.cpp(11): message : see declaration of 'L'
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Marine.cpp(14,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Scheduler.cpp(1,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Scheduler.cpp(2,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Scheduler.cpp(3,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Marine.cpp(11,11): error C2086: 'std::list<int,std::allocator<int>> L': redefinition
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Marine.cpp(11): message : see declaration of 'L'
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Marine.cpp(14,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Scheduler.cpp(1,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Scheduler.cpp(2,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Scheduler.cpp(3,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Marine.cpp(11,11): error C2086: 'std::list<int,std::allocator<int>> L': redefinition
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Marine.cpp(11): message : see declaration of 'L'
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Marine.cpp(14,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Scheduler.cpp(1,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Scheduler.cpp(2,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Scheduler.cpp(3,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Marine.cpp(11,11): error C2086: 'std::list<int,std::allocator<int>> L': redefinition
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Marine.cpp(11): message : see declaration of 'L'
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Marine.cpp(14,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Scheduler.cpp(1,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Scheduler.cpp(2,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Scheduler.cpp(3,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Marine.cpp(11,11): error C2086: 'std::list<int,std::allocator<int>> L': redefinition
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Marine.cpp(11): message : see declaration of 'L'
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Marine.cpp(14,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Scheduler.cpp(1,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Scheduler.cpp(2,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Scheduler.cpp(3,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Marine.cpp(11,11): error C2086: 'std::list<int,std::allocator<int>> L': redefinition
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Marine.cpp(11): message : see declaration of 'L'
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Marine.cpp(14,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Scheduler.cpp(1,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Scheduler.cpp(2,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Scheduler.cpp(3,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Marine.cpp(11,11): error C2086: 'std::list<int,std::allocator<int>> L': redefinition
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Marine.cpp(11): message : see declaration of 'L'
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Marine.cpp(14,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Scheduler.cpp(1,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Scheduler.cpp(2,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Scheduler.cpp(3,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Marine.cpp(11,11): error C2086: 'std::list<int,std::allocator<int>> L': redefinition
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Marine.cpp(11): message : see declaration of 'L'
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Marine.cpp(14,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Scheduler.cpp(1,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Scheduler.cpp(2,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Scheduler.cpp(3,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Marine.cpp(11,11): error C2086: 'std::list<int,std::allocator<int>> L': redefinition
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Marine.cpp(11): message : see declaration of 'L'
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Marine.cpp(14,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Scheduler.cpp(1,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Scheduler.cpp(2,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Scheduler.cpp(3,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Marine.cpp(11,11): error C2086: 'std::list<int,std::allocator<int>> L': redefinition
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Marine.cpp(11): message : see declaration of 'L'
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Marine.cpp(14,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Scheduler.cpp(1,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Scheduler.cpp(2,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Scheduler.cpp(3,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Marine.cpp(11,11): error C2086: 'std::list<int,std::allocator<int>> L': redefinition
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Marine.cpp(11): message : see declaration of 'L'
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Marine.cpp(14,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Scheduler.cpp(1,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Scheduler.cpp(2,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Scheduler.cpp(3,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Marine.cpp(11,11): error C2086: 'std::list<int,std::allocator<int>> L': redefinition
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Marine.cpp(11): message : see declaration of 'L'
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Marine.cpp(14,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Scheduler.cpp(1,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Scheduler.cpp(2,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Scheduler.cpp(3,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Marine.cpp(11,11): error C2086: 'std::list<int,std::allocator<int>> L': redefinition
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Marine.cpp(11): message : see declaration of 'L'
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Marine.cpp(14,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Scheduler.cpp(1,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Scheduler.cpp(2,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Scheduler.cpp(3,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Marine.cpp(11,11): error C2086: 'std::list<int,std::allocator<int>> L': redefinition
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Marine.cpp(11): message : see declaration of 'L'
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Marine.cpp(14,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Scheduler.cpp(1,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Scheduler.cpp(2,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Scheduler.cpp(3,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Marine.cpp(11,11): error C2086: 'std::list<int,std::allocator<int>> L': redefinition
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Marine.cpp(11): message : see declaration of 'L'
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Marine.cpp(14,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Scheduler.cpp(1,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Scheduler.cpp(2,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Scheduler.cpp(3,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Marine.cpp(11,11): error C2086: 'std::list<int,std::allocator<int>> L': redefinition
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Marine.cpp(11): message : see declaration of 'L'
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Marine.cpp(14,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Scheduler.cpp(1,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Scheduler.cpp(2,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Scheduler.cpp(3,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Marine.cpp(11,11): error C2086: 'std::list<int,std::allocator<int>> L': redefinition
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Marine.cpp(11): message : see declaration of 'L'
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Marine.cpp(14,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Scheduler.cpp(1,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Scheduler.cpp(2,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Scheduler.cpp(3,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Marine.cpp(11,11): error C2086: 'std::list<int,std::allocator<int>> L': redefinition
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Marine.cpp(11): message : see declaration of 'L'
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Marine.cpp(14,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Scheduler.cpp(1,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Scheduler.cpp(2,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Scheduler.cpp(3,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Marine.cpp(11,11): error C2086: 'std::list<int,std::allocator<int>> L': redefinition
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Marine.cpp(11): message : see declaration of 'L'
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Marine.cpp(11,12): fatal error C1003: error count exceeds 100; stopping compilation
+  Scheduler.cpp
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Scheduler.cpp(1,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Scheduler.cpp(2,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Scheduler.cpp(3,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Marine.cpp(14,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Scheduler.cpp(1,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Scheduler.cpp(2,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Scheduler.cpp(3,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Marine.cpp(11,11): error C2086: 'std::list<int,std::allocator<int>> L': redefinition
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Marine.cpp(11): message : see declaration of 'L'
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Marine.cpp(14,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Scheduler.cpp(1,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Scheduler.cpp(2,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Scheduler.cpp(3,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Marine.cpp(11,11): error C2086: 'std::list<int,std::allocator<int>> L': redefinition
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Marine.cpp(11): message : see declaration of 'L'
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Marine.cpp(14,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Scheduler.cpp(1,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Scheduler.cpp(2,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Scheduler.cpp(3,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Marine.cpp(11,11): error C2086: 'std::list<int,std::allocator<int>> L': redefinition
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Marine.cpp(11): message : see declaration of 'L'
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Marine.cpp(14,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Scheduler.cpp(1,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Scheduler.cpp(2,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Scheduler.cpp(3,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Marine.cpp(11,11): error C2086: 'std::list<int,std::allocator<int>> L': redefinition
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Marine.cpp(11): message : see declaration of 'L'
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Marine.cpp(14,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Scheduler.cpp(1,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Scheduler.cpp(2,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Scheduler.cpp(3,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Marine.cpp(11,11): error C2086: 'std::list<int,std::allocator<int>> L': redefinition
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Marine.cpp(11): message : see declaration of 'L'
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Marine.cpp(14,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Scheduler.cpp(1,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Scheduler.cpp(2,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Scheduler.cpp(3,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Marine.cpp(11,11): error C2086: 'std::list<int,std::allocator<int>> L': redefinition
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Marine.cpp(11): message : see declaration of 'L'
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Marine.cpp(14,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Scheduler.cpp(1,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Scheduler.cpp(2,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Scheduler.cpp(3,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Marine.cpp(11,11): error C2086: 'std::list<int,std::allocator<int>> L': redefinition
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Marine.cpp(11): message : see declaration of 'L'
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Marine.cpp(14,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Scheduler.cpp(1,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Scheduler.cpp(2,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Scheduler.cpp(3,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Marine.cpp(11,11): error C2086: 'std::list<int,std::allocator<int>> L': redefinition
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Marine.cpp(11): message : see declaration of 'L'
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Marine.cpp(14,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Scheduler.cpp(1,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Scheduler.cpp(2,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Scheduler.cpp(3,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Marine.cpp(11,11): error C2086: 'std::list<int,std::allocator<int>> L': redefinition
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Marine.cpp(11): message : see declaration of 'L'
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Marine.cpp(14,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Scheduler.cpp(1,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Scheduler.cpp(2,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Scheduler.cpp(3,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Marine.cpp(11,11): error C2086: 'std::list<int,std::allocator<int>> L': redefinition
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Marine.cpp(11): message : see declaration of 'L'
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Marine.cpp(14,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Scheduler.cpp(1,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Scheduler.cpp(2,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Scheduler.cpp(3,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Marine.cpp(11,11): error C2086: 'std::list<int,std::allocator<int>> L': redefinition
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Marine.cpp(11): message : see declaration of 'L'
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Marine.cpp(14,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Scheduler.cpp(1,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Scheduler.cpp(2,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Scheduler.cpp(3,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Marine.cpp(11,11): error C2086: 'std::list<int,std::allocator<int>> L': redefinition
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Marine.cpp(11): message : see declaration of 'L'
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Marine.cpp(14,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Scheduler.cpp(1,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Scheduler.cpp(2,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Scheduler.cpp(3,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Marine.cpp(11,11): error C2086: 'std::list<int,std::allocator<int>> L': redefinition
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Marine.cpp(11): message : see declaration of 'L'
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Marine.cpp(14,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Scheduler.cpp(1,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Scheduler.cpp(2,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Scheduler.cpp(3,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Marine.cpp(11,11): error C2086: 'std::list<int,std::allocator<int>> L': redefinition
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Marine.cpp(11): message : see declaration of 'L'
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Marine.cpp(14,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Scheduler.cpp(1,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Scheduler.cpp(2,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Scheduler.cpp(3,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Marine.cpp(11,11): error C2086: 'std::list<int,std::allocator<int>> L': redefinition
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Marine.cpp(11): message : see declaration of 'L'
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Marine.cpp(14,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Scheduler.cpp(1,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Scheduler.cpp(2,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Scheduler.cpp(3,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Marine.cpp(11,11): error C2086: 'std::list<int,std::allocator<int>> L': redefinition
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Marine.cpp(11): message : see declaration of 'L'
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Marine.cpp(14,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Scheduler.cpp(1,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Scheduler.cpp(2,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Scheduler.cpp(3,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Marine.cpp(11,11): error C2086: 'std::list<int,std::allocator<int>> L': redefinition
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Marine.cpp(11): message : see declaration of 'L'
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Marine.cpp(14,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Scheduler.cpp(1,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Scheduler.cpp(2,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Scheduler.cpp(3,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Marine.cpp(11,11): error C2086: 'std::list<int,std::allocator<int>> L': redefinition
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Marine.cpp(11): message : see declaration of 'L'
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Marine.cpp(14,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Scheduler.cpp(1,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Scheduler.cpp(2,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Scheduler.cpp(3,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Marine.cpp(11,11): error C2086: 'std::list<int,std::allocator<int>> L': redefinition
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Marine.cpp(11): message : see declaration of 'L'
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Marine.cpp(14,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Scheduler.cpp(1,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Scheduler.cpp(2,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Scheduler.cpp(3,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Marine.cpp(11,11): error C2086: 'std::list<int,std::allocator<int>> L': redefinition
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Marine.cpp(11): message : see declaration of 'L'
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Marine.cpp(14,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Scheduler.cpp(1,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Scheduler.cpp(2,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Scheduler.cpp(3,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Marine.cpp(11,11): error C2086: 'std::list<int,std::allocator<int>> L': redefinition
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Marine.cpp(11): message : see declaration of 'L'
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Marine.cpp(14,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Scheduler.cpp(1,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Scheduler.cpp(2,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Scheduler.cpp(3,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Marine.cpp(11,11): error C2086: 'std::list<int,std::allocator<int>> L': redefinition
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Marine.cpp(11): message : see declaration of 'L'
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Marine.cpp(14,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Scheduler.cpp(1,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Scheduler.cpp(2,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Scheduler.cpp(3,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Marine.cpp(11,11): error C2086: 'std::list<int,std::allocator<int>> L': redefinition
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Marine.cpp(11): message : see declaration of 'L'
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Marine.cpp(14,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Scheduler.cpp(1,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Scheduler.cpp(2,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Scheduler.cpp(3,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Marine.cpp(11,11): error C2086: 'std::list<int,std::allocator<int>> L': redefinition
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Marine.cpp(11): message : see declaration of 'L'
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Marine.cpp(14,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Scheduler.cpp(1,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Scheduler.cpp(2,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Scheduler.cpp(3,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Marine.cpp(11,11): error C2086: 'std::list<int,std::allocator<int>> L': redefinition
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Marine.cpp(11): message : see declaration of 'L'
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Marine.cpp(14,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Scheduler.cpp(1,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Scheduler.cpp(2,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Scheduler.cpp(3,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Marine.cpp(11,11): error C2086: 'std::list<int,std::allocator<int>> L': redefinition
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Marine.cpp(11): message : see declaration of 'L'
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Marine.cpp(14,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Scheduler.cpp(1,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Scheduler.cpp(2,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Scheduler.cpp(3,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Marine.cpp(11,11): error C2086: 'std::list<int,std::allocator<int>> L': redefinition
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Marine.cpp(11): message : see declaration of 'L'
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Marine.cpp(14,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Scheduler.cpp(1,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Scheduler.cpp(2,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Scheduler.cpp(3,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Marine.cpp(11,11): error C2086: 'std::list<int,std::allocator<int>> L': redefinition
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Marine.cpp(11): message : see declaration of 'L'
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Marine.cpp(14,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Scheduler.cpp(1,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Scheduler.cpp(2,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Scheduler.cpp(3,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Marine.cpp(11,11): error C2086: 'std::list<int,std::allocator<int>> L': redefinition
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Marine.cpp(11): message : see declaration of 'L'
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Marine.cpp(14,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Scheduler.cpp(1,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Scheduler.cpp(2,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Scheduler.cpp(3,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Marine.cpp(11,11): error C2086: 'std::list<int,std::allocator<int>> L': redefinition
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Marine.cpp(11): message : see declaration of 'L'
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Marine.cpp(14,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Scheduler.cpp(1,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Scheduler.cpp(2,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Scheduler.cpp(3,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Marine.cpp(11,11): error C2086: 'std::list<int,std::allocator<int>> L': redefinition
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Marine.cpp(11): message : see declaration of 'L'
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Marine.cpp(14,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Scheduler.cpp(1,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Scheduler.cpp(2,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Scheduler.cpp(3,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Marine.cpp(11,11): error C2086: 'std::list<int,std::allocator<int>> L': redefinition
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Marine.cpp(11): message : see declaration of 'L'
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Marine.cpp(14,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Scheduler.cpp(1,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Scheduler.cpp(2,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Scheduler.cpp(3,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Marine.cpp(11,11): error C2086: 'std::list<int,std::allocator<int>> L': redefinition
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Marine.cpp(11): message : see declaration of 'L'
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Marine.cpp(14,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Scheduler.cpp(1,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Scheduler.cpp(2,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Scheduler.cpp(3,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Marine.cpp(11,11): error C2086: 'std::list<int,std::allocator<int>> L': redefinition
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Marine.cpp(11): message : see declaration of 'L'
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Marine.cpp(14,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Scheduler.cpp(1,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Scheduler.cpp(2,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Scheduler.cpp(3,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Marine.cpp(11,11): error C2086: 'std::list<int,std::allocator<int>> L': redefinition
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Marine.cpp(11): message : see declaration of 'L'
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Marine.cpp(14,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Scheduler.cpp(1,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Scheduler.cpp(2,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Scheduler.cpp(3,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Marine.cpp(11,11): error C2086: 'std::list<int,std::allocator<int>> L': redefinition
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Marine.cpp(11): message : see declaration of 'L'
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Marine.cpp(14,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Scheduler.cpp(1,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Scheduler.cpp(2,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Scheduler.cpp(3,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Marine.cpp(11,11): error C2086: 'std::list<int,std::allocator<int>> L': redefinition
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Marine.cpp(11): message : see declaration of 'L'
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Marine.cpp(14,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Scheduler.cpp(1,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Scheduler.cpp(2,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Scheduler.cpp(3,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Marine.cpp(11,11): error C2086: 'std::list<int,std::allocator<int>> L': redefinition
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Marine.cpp(11): message : see declaration of 'L'
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Marine.cpp(14,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Scheduler.cpp(1,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Scheduler.cpp(2,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Scheduler.cpp(3,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Marine.cpp(11,11): error C2086: 'std::list<int,std::allocator<int>> L': redefinition
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Marine.cpp(11): message : see declaration of 'L'
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Marine.cpp(14,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Scheduler.cpp(1,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Scheduler.cpp(2,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Scheduler.cpp(3,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Marine.cpp(11,11): error C2086: 'std::list<int,std::allocator<int>> L': redefinition
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Marine.cpp(11): message : see declaration of 'L'
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Marine.cpp(14,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Scheduler.cpp(1,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Scheduler.cpp(2,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Scheduler.cpp(3,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Marine.cpp(11,11): error C2086: 'std::list<int,std::allocator<int>> L': redefinition
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Marine.cpp(11): message : see declaration of 'L'
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Marine.cpp(14,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Scheduler.cpp(1,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Scheduler.cpp(2,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Scheduler.cpp(3,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Marine.cpp(11,11): error C2086: 'std::list<int,std::allocator<int>> L': redefinition
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Marine.cpp(11): message : see declaration of 'L'
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Marine.cpp(14,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Scheduler.cpp(1,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Scheduler.cpp(2,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Scheduler.cpp(3,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Marine.cpp(11,11): error C2086: 'std::list<int,std::allocator<int>> L': redefinition
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Marine.cpp(11): message : see declaration of 'L'
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Marine.cpp(14,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Scheduler.cpp(1,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Scheduler.cpp(2,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Scheduler.cpp(3,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Marine.cpp(11,11): error C2086: 'std::list<int,std::allocator<int>> L': redefinition
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Marine.cpp(11): message : see declaration of 'L'
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Marine.cpp(14,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Scheduler.cpp(1,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Scheduler.cpp(2,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Scheduler.cpp(3,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Marine.cpp(11,11): error C2086: 'std::list<int,std::allocator<int>> L': redefinition
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Marine.cpp(11): message : see declaration of 'L'
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Marine.cpp(14,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Scheduler.cpp(1,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Scheduler.cpp(2,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Scheduler.cpp(3,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Marine.cpp(11,11): error C2086: 'std::list<int,std::allocator<int>> L': redefinition
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Marine.cpp(11): message : see declaration of 'L'
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Marine.cpp(14,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Scheduler.cpp(1,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Scheduler.cpp(2,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Scheduler.cpp(3,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Marine.cpp(11,11): error C2086: 'std::list<int,std::allocator<int>> L': redefinition
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Marine.cpp(11): message : see declaration of 'L'
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Marine.cpp(14,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Scheduler.cpp(1,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Scheduler.cpp(2,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Scheduler.cpp(3,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Marine.cpp(11,11): error C2086: 'std::list<int,std::allocator<int>> L': redefinition
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Marine.cpp(11): message : see declaration of 'L'
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Marine.cpp(14,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Scheduler.cpp(1,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Scheduler.cpp(2,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Scheduler.cpp(3,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Marine.cpp(11,11): error C2086: 'std::list<int,std::allocator<int>> L': redefinition
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Marine.cpp(11): message : see declaration of 'L'
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Marine.cpp(14,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Scheduler.cpp(1,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Scheduler.cpp(2,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Scheduler.cpp(3,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Marine.cpp(11,11): error C2086: 'std::list<int,std::allocator<int>> L': redefinition
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Marine.cpp(11): message : see declaration of 'L'
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Marine.cpp(14,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Scheduler.cpp(1,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Scheduler.cpp(2,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Scheduler.cpp(3,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Marine.cpp(11,11): error C2086: 'std::list<int,std::allocator<int>> L': redefinition
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Marine.cpp(11): message : see declaration of 'L'
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Marine.cpp(14,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Scheduler.cpp(1,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Scheduler.cpp(2,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Scheduler.cpp(3,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Marine.cpp(11,11): error C2086: 'std::list<int,std::allocator<int>> L': redefinition
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Marine.cpp(11): message : see declaration of 'L'
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Marine.cpp(14,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Scheduler.cpp(1,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Scheduler.cpp(2,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Scheduler.cpp(3,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Marine.cpp(11,11): error C2086: 'std::list<int,std::allocator<int>> L': redefinition
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Marine.cpp(11): message : see declaration of 'L'
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Marine.cpp(14,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Scheduler.cpp(1,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Scheduler.cpp(2,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Scheduler.cpp(3,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Marine.cpp(11,11): error C2086: 'std::list<int,std::allocator<int>> L': redefinition
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Marine.cpp(11): message : see declaration of 'L'
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Marine.cpp(14,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Scheduler.cpp(1,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Scheduler.cpp(2,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Scheduler.cpp(3,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Marine.cpp(11,11): error C2086: 'std::list<int,std::allocator<int>> L': redefinition
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Marine.cpp(11): message : see declaration of 'L'
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Marine.cpp(14,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Scheduler.cpp(1,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Scheduler.cpp(2,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Scheduler.cpp(3,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Marine.cpp(11,11): error C2086: 'std::list<int,std::allocator<int>> L': redefinition
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Marine.cpp(11): message : see declaration of 'L'
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Marine.cpp(14,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Scheduler.cpp(1,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Scheduler.cpp(2,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Scheduler.cpp(3,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Marine.cpp(11,11): error C2086: 'std::list<int,std::allocator<int>> L': redefinition
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Marine.cpp(11): message : see declaration of 'L'
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Marine.cpp(14,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Scheduler.cpp(1,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Scheduler.cpp(2,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Scheduler.cpp(3,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Marine.cpp(11,11): error C2086: 'std::list<int,std::allocator<int>> L': redefinition
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Marine.cpp(11): message : see declaration of 'L'
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Marine.cpp(14,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Scheduler.cpp(1,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Scheduler.cpp(2,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Scheduler.cpp(3,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Marine.cpp(11,11): error C2086: 'std::list<int,std::allocator<int>> L': redefinition
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Marine.cpp(11): message : see declaration of 'L'
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Marine.cpp(14,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Scheduler.cpp(1,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Scheduler.cpp(2,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Scheduler.cpp(3,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Marine.cpp(11,11): error C2086: 'std::list<int,std::allocator<int>> L': redefinition
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Marine.cpp(11): message : see declaration of 'L'
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Marine.cpp(14,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Scheduler.cpp(1,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Scheduler.cpp(2,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Scheduler.cpp(3,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Marine.cpp(11,11): error C2086: 'std::list<int,std::allocator<int>> L': redefinition
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Marine.cpp(11): message : see declaration of 'L'
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Marine.cpp(14,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Scheduler.cpp(1,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Scheduler.cpp(2,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Scheduler.cpp(3,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Marine.cpp(11,11): error C2086: 'std::list<int,std::allocator<int>> L': redefinition
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Marine.cpp(11): message : see declaration of 'L'
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Marine.cpp(14,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Scheduler.cpp(1,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Scheduler.cpp(2,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Scheduler.cpp(3,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Marine.cpp(11,11): error C2086: 'std::list<int,std::allocator<int>> L': redefinition
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Marine.cpp(11): message : see declaration of 'L'
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Marine.cpp(14,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Scheduler.cpp(1,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Scheduler.cpp(2,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Scheduler.cpp(3,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Marine.cpp(11,11): error C2086: 'std::list<int,std::allocator<int>> L': redefinition
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Marine.cpp(11): message : see declaration of 'L'
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Marine.cpp(14,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Scheduler.cpp(1,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Scheduler.cpp(2,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Scheduler.cpp(3,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Marine.cpp(11,11): error C2086: 'std::list<int,std::allocator<int>> L': redefinition
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Marine.cpp(11): message : see declaration of 'L'
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Marine.cpp(14,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Scheduler.cpp(1,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Scheduler.cpp(2,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Scheduler.cpp(3,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Marine.cpp(11,11): error C2086: 'std::list<int,std::allocator<int>> L': redefinition
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Marine.cpp(11): message : see declaration of 'L'
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Marine.cpp(14,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Scheduler.cpp(1,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Scheduler.cpp(2,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Scheduler.cpp(3,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Marine.cpp(11,11): error C2086: 'std::list<int,std::allocator<int>> L': redefinition
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Marine.cpp(11): message : see declaration of 'L'
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Marine.cpp(14,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Scheduler.cpp(1,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Scheduler.cpp(2,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Scheduler.cpp(3,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Marine.cpp(11,11): error C2086: 'std::list<int,std::allocator<int>> L': redefinition
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Marine.cpp(11): message : see declaration of 'L'
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Marine.cpp(14,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Scheduler.cpp(1,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Scheduler.cpp(2,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Scheduler.cpp(3,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Marine.cpp(11,11): error C2086: 'std::list<int,std::allocator<int>> L': redefinition
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Marine.cpp(11): message : see declaration of 'L'
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Marine.cpp(14,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Scheduler.cpp(1,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Scheduler.cpp(2,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Scheduler.cpp(3,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Marine.cpp(11,11): error C2086: 'std::list<int,std::allocator<int>> L': redefinition
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Marine.cpp(11): message : see declaration of 'L'
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Marine.cpp(14,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Scheduler.cpp(1,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Scheduler.cpp(2,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Scheduler.cpp(3,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Marine.cpp(11,11): error C2086: 'std::list<int,std::allocator<int>> L': redefinition
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Marine.cpp(11): message : see declaration of 'L'
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Marine.cpp(14,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Scheduler.cpp(1,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Scheduler.cpp(2,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Scheduler.cpp(3,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Marine.cpp(11,11): error C2086: 'std::list<int,std::allocator<int>> L': redefinition
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Marine.cpp(11): message : see declaration of 'L'
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Marine.cpp(14,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Scheduler.cpp(1,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Scheduler.cpp(2,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Scheduler.cpp(3,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Marine.cpp(11,11): error C2086: 'std::list<int,std::allocator<int>> L': redefinition
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Marine.cpp(11): message : see declaration of 'L'
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Marine.cpp(14,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Scheduler.cpp(1,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Scheduler.cpp(2,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Scheduler.cpp(3,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Marine.cpp(11,11): error C2086: 'std::list<int,std::allocator<int>> L': redefinition
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Marine.cpp(11): message : see declaration of 'L'
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Marine.cpp(14,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Scheduler.cpp(1,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Scheduler.cpp(2,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Scheduler.cpp(3,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Marine.cpp(11,11): error C2086: 'std::list<int,std::allocator<int>> L': redefinition
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Marine.cpp(11): message : see declaration of 'L'
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Marine.cpp(14,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Scheduler.cpp(1,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Scheduler.cpp(2,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Scheduler.cpp(3,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Marine.cpp(11,11): error C2086: 'std::list<int,std::allocator<int>> L': redefinition
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Marine.cpp(11): message : see declaration of 'L'
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Marine.cpp(14,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Scheduler.cpp(1,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Scheduler.cpp(2,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Scheduler.cpp(3,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Marine.cpp(11,11): error C2086: 'std::list<int,std::allocator<int>> L': redefinition
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Marine.cpp(11): message : see declaration of 'L'
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Marine.cpp(14,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Scheduler.cpp(1,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Scheduler.cpp(2,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Scheduler.cpp(3,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Marine.cpp(11,11): error C2086: 'std::list<int,std::allocator<int>> L': redefinition
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Marine.cpp(11): message : see declaration of 'L'
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Marine.cpp(14,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Scheduler.cpp(1,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Scheduler.cpp(2,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Scheduler.cpp(3,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Marine.cpp(11,11): error C2086: 'std::list<int,std::allocator<int>> L': redefinition
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Marine.cpp(11): message : see declaration of 'L'
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Marine.cpp(14,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Scheduler.cpp(1,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Scheduler.cpp(2,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Scheduler.cpp(3,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Marine.cpp(11,11): error C2086: 'std::list<int,std::allocator<int>> L': redefinition
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Marine.cpp(11): message : see declaration of 'L'
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Marine.cpp(14,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Scheduler.cpp(1,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Scheduler.cpp(2,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Scheduler.cpp(3,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Marine.cpp(11,11): error C2086: 'std::list<int,std::allocator<int>> L': redefinition
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Marine.cpp(11): message : see declaration of 'L'
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Marine.cpp(14,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Scheduler.cpp(1,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Scheduler.cpp(2,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Scheduler.cpp(3,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Marine.cpp(11,11): error C2086: 'std::list<int,std::allocator<int>> L': redefinition
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Marine.cpp(11): message : see declaration of 'L'
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Marine.cpp(14,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Scheduler.cpp(1,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Scheduler.cpp(2,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Scheduler.cpp(3,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Marine.cpp(11,11): error C2086: 'std::list<int,std::allocator<int>> L': redefinition
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Marine.cpp(11): message : see declaration of 'L'
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Marine.cpp(14,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Scheduler.cpp(1,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Scheduler.cpp(2,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Scheduler.cpp(3,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Marine.cpp(11,11): error C2086: 'std::list<int,std::allocator<int>> L': redefinition
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Marine.cpp(11): message : see declaration of 'L'
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Marine.cpp(14,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Scheduler.cpp(1,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Scheduler.cpp(2,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Scheduler.cpp(3,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Marine.cpp(11,11): error C2086: 'std::list<int,std::allocator<int>> L': redefinition
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Marine.cpp(11): message : see declaration of 'L'
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Marine.cpp(14,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Scheduler.cpp(1,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Scheduler.cpp(2,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Scheduler.cpp(3,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Marine.cpp(11,11): error C2086: 'std::list<int,std::allocator<int>> L': redefinition
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Marine.cpp(11): message : see declaration of 'L'
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Marine.cpp(14,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Scheduler.cpp(1,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Scheduler.cpp(2,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Scheduler.cpp(3,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Marine.cpp(11,11): error C2086: 'std::list<int,std::allocator<int>> L': redefinition
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Marine.cpp(11): message : see declaration of 'L'
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Marine.cpp(14,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Scheduler.cpp(1,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Scheduler.cpp(2,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Scheduler.cpp(3,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Marine.cpp(11,11): error C2086: 'std::list<int,std::allocator<int>> L': redefinition
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Marine.cpp(11): message : see declaration of 'L'
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Marine.cpp(14,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Scheduler.cpp(1,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Scheduler.cpp(2,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Scheduler.cpp(3,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Marine.cpp(11,11): error C2086: 'std::list<int,std::allocator<int>> L': redefinition
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Marine.cpp(11): message : see declaration of 'L'
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Marine.cpp(14,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Scheduler.cpp(1,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Scheduler.cpp(2,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Scheduler.cpp(3,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Marine.cpp(11,11): error C2086: 'std::list<int,std::allocator<int>> L': redefinition
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Marine.cpp(11): message : see declaration of 'L'
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Marine.cpp(14,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Scheduler.cpp(1,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Scheduler.cpp(2,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Scheduler.cpp(3,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Marine.cpp(11,11): error C2086: 'std::list<int,std::allocator<int>> L': redefinition
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Marine.cpp(11): message : see declaration of 'L'
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Marine.cpp(14,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Scheduler.cpp(1,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Scheduler.cpp(2,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Scheduler.cpp(3,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Marine.cpp(11,11): error C2086: 'std::list<int,std::allocator<int>> L': redefinition
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Marine.cpp(11): message : see declaration of 'L'
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Marine.cpp(14,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Scheduler.cpp(1,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Scheduler.cpp(2,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Scheduler.cpp(3,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Marine.cpp(11,11): error C2086: 'std::list<int,std::allocator<int>> L': redefinition
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Marine.cpp(11): message : see declaration of 'L'
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Marine.cpp(14,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Scheduler.cpp(1,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Scheduler.cpp(2,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Scheduler.cpp(3,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Marine.cpp(11,11): error C2086: 'std::list<int,std::allocator<int>> L': redefinition
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Marine.cpp(11): message : see declaration of 'L'
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Marine.cpp(14,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Scheduler.cpp(1,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Scheduler.cpp(2,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Scheduler.cpp(3,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Marine.cpp(11,11): error C2086: 'std::list<int,std::allocator<int>> L': redefinition
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Marine.cpp(11): message : see declaration of 'L'
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Marine.cpp(14,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Scheduler.cpp(1,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Scheduler.cpp(2,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Scheduler.cpp(3,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Marine.cpp(11,11): error C2086: 'std::list<int,std::allocator<int>> L': redefinition
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Marine.cpp(11): message : see declaration of 'L'
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Marine.cpp(14,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Scheduler.cpp(1,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Scheduler.cpp(2,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Scheduler.cpp(3,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Marine.cpp(11,11): error C2086: 'std::list<int,std::allocator<int>> L': redefinition
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Marine.cpp(11): message : see declaration of 'L'
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Marine.cpp(14,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Scheduler.cpp(1,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Scheduler.cpp(2,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Scheduler.cpp(3,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Marine.cpp(11,11): error C2086: 'std::list<int,std::allocator<int>> L': redefinition
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Marine.cpp(11): message : see declaration of 'L'
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Marine.cpp(14,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Scheduler.cpp(1,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Scheduler.cpp(2,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Scheduler.cpp(3,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Marine.cpp(11,11): error C2086: 'std::list<int,std::allocator<int>> L': redefinition
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Marine.cpp(11): message : see declaration of 'L'
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Marine.cpp(14,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Scheduler.cpp(1,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Scheduler.cpp(2,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Scheduler.cpp(3,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Marine.cpp(11,11): error C2086: 'std::list<int,std::allocator<int>> L': redefinition
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Marine.cpp(11): message : see declaration of 'L'
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Marine.cpp(14,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Scheduler.cpp(1,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Scheduler.cpp(2,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Scheduler.cpp(3,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Marine.cpp(11,11): error C2086: 'std::list<int,std::allocator<int>> L': redefinition
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Marine.cpp(11): message : see declaration of 'L'
+C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Marine.cpp(11,12): fatal error C1003: error count exceeds 100; stopping compilation
+  Generating Code...

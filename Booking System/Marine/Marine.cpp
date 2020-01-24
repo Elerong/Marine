@@ -10,15 +10,67 @@ using namespace std;
 void RenderCustomers();
 list<int> L;
 void MainMenu();
-void RunProgram();
+
+#include "Scheduler.cpp";
 string selection = "Menu";
+
+Scheduler scheduler;
+Main MainM;
+class Main 
+{
+public:
+    void MainMenu()
+    {
+        while (selection == "Menu")
+        {
+
+            //Display the menu with options
+            cout << "1. Create a New Booking" << endl
+                << "2. View Bookings" << endl
+                << "3. Edit Existing Booking" << endl
+                << "4. Get a Quote" << endl
+                << "5. Exit" << endl;
+            cout << "Make a Selection: ";
+            //Ask for input
+            cin >> selection;
+            //After input clear the screen
+            system("cls");
+            //Check the selection
+            switch (selection.at(0))
+            {
+
+            case '1': {break; } //Create Booking
+            case '2': {RenderCustomers(); break; } //View Booking
+            case '3': {break; } //Edit Booking
+            case '4': {break; } //Get a Quote
+            case '5': {system("exit"); //Close the program 
+                break; }
+                    //Any input other than from the list = Display error message
+            default: {cout << "Incorrect Entry!" << endl << "Please try again." << endl << endl;
+                selection = "Menu"; }
+            }
+
+
+
+
+        }
+    }
+  
+  
+    
+};
 int main()
 {
-    RunProgram();
-
+   
     L.push_back(14); L.push_back(5); L.push_back(22);
 
     L.push_back(1); L.push_back(1); L.push_back(-7);
+    scheduler.RunProgram();
+    
+
+    
+
+
    
     
 
@@ -42,6 +94,7 @@ void RenderCustomers()
 
                     if (l < 1) //Number of custome
                     {
+                        
                         for (int c = 0; c < L.size(); c++)
                         {
 
@@ -84,41 +137,8 @@ void RenderCustomers()
         }
     }
 }
-void RunProgram() 
-{
-    
-    MainMenu();
 
-}
-void MainMenu()
-{
-    while (selection == "Menu")
-    {
 
-       
-            cout << "1. Create a New Booking" << endl
-            << "2. View Bookings" << endl
-            << "3. Edit Existing Booking" << endl
-            << "4. Get a Quote" << endl;
-            cout << "Make a Selection: ";
-        cin >> selection;
-        system("cls");
-
-        if ( selection != "1"
-            && selection != "2"
-            && selection != "3"
-            && selection != "4"
-            && selection != "Exit"
-            && selection != "Menu")
-        {
-            cout << "Incorrect Entry!" << endl << "Please try again." << endl << endl;
-            selection = "Menu";
-        }
-        
-      
-        
-    }
-}
 // Run program: Ctrl + F5 or Debug > Start Without Debugging menu
 // Debug program: F5 or Debug > Start Debugging menu
 
