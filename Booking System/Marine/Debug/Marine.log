@@ -1,19 +1,29 @@
-﻿  Marine.cpp
-C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Marine.cpp(11,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
-C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Scheduler.h(1,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
-C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Scheduler.h(2,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
-C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Scheduler.h(7,11): error C3646: 'home': unknown override specifier
-C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Scheduler.h(7,11): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
-C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Scheduler.h(11,20): error C2061: syntax error: identifier 'Home'
-C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Scheduler.h(15,14): error C3646: 'gethome': unknown override specifier
-C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Scheduler.h(15,14): error C2059: syntax error: '('
-C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Scheduler.h(16,2): error C2334: unexpected token(s) preceding '{'; skipping apparent function body
-C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Scheduler.h(13,3): error C2065: 'home': undeclared identifier
-C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Scheduler.h(13,10): error C2065: 'x': undeclared identifier
-C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Marine.cpp(59,22): error C2039: 'gethome': is not a member of 'Scheduler'
-C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Scheduler.h(5): message : see declaration of 'Scheduler'
-C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Marine.cpp(89,43): warning C4018: '<': signed/unsigned mismatch
+﻿  HomeClass.cpp
+H:\My Documents\Development\Marine-master\Booking System\Marine\HomeClass.cpp(9,1): error C2011:  'HomeClass': 'class' type redefinition
+H:\My Documents\Development\Marine-master\Booking System\Marine\HomeClass.h(5): message :  see declaration of 'HomeClass'
+H:\My Documents\Development\Marine-master\Booking System\Marine\HomeClass.cpp(16,17): error C2027:  use of undefined type 'HomeClass'
+H:\My Documents\Development\Marine-master\Booking System\Marine\HomeClass.h(5): message :  see declaration of 'HomeClass'
+H:\My Documents\Development\Marine-master\Booking System\Marine\HomeClass.cpp(18,9): error C2065:  'selection': undeclared identifier
+H:\My Documents\Development\Marine-master\Booking System\Marine\HomeClass.cpp(29,15): error C2065:  'selection': undeclared identifier
+H:\My Documents\Development\Marine-master\Booking System\Marine\HomeClass.cpp(33,11): error C2065:  'selection': undeclared identifier
+H:\My Documents\Development\Marine-master\Booking System\Marine\HomeClass.cpp(37,14): error C3861:  'RenderCustomers': identifier not found
+H:\My Documents\Development\Marine-master\Booking System\Marine\HomeClass.cpp(44,4): error C2065:  'selection': undeclared identifier
+H:\My Documents\Development\Marine-master\Booking System\Marine\HomeClass.cpp(50,17): error C2027:  use of undefined type 'HomeClass'
+H:\My Documents\Development\Marine-master\Booking System\Marine\HomeClass.h(5): message :  see declaration of 'HomeClass'
+H:\My Documents\Development\Marine-master\Booking System\Marine\HomeClass.cpp(68,27): error C2065:  'L': undeclared identifier
+H:\My Documents\Development\Marine-master\Booking System\Marine\HomeClass.cpp(71,33): error C2065:  'L': undeclared identifier
+H:\My Documents\Development\Marine-master\Booking System\Marine\HomeClass.cpp(71,28): error C2672:  'std::next': no matching overloaded function found
+H:\My Documents\Development\Marine-master\Booking System\Marine\HomeClass.cpp(73,61): error C3536:  'current': cannot be used before it is initialized
+H:\My Documents\Development\Marine-master\Booking System\Marine\HomeClass.cpp(73,61): error C2100:  illegal indirection
+  Marine.cpp
   Scheduler.cpp
-C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Scheduler.cpp(1,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
-C:\Users\Sylwia Magrian\Desktop\Marine\Booking System\Marine\Scheduler.cpp(2,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+H:\My Documents\Development\Marine-master\Booking System\Marine\HomeClass.cpp(73,49): error C2088:  '<<': illegal for class
+H:\My Documents\Development\Marine-master\Booking System\Marine\Scheduler.cpp(7,1): error C2011:  'Scheduler': 'class' type redefinition
+H:\My Documents\Development\Marine-master\Booking System\Marine\Scheduler.h(7): message :  see declaration of 'Scheduler'
+H:\My Documents\Development\Marine-master\Booking System\Marine\Scheduler.cpp(13,23): error C2027:  use of undefined type 'Scheduler'
+H:\My Documents\Development\Marine-master\Booking System\Marine\Scheduler.h(7): message :  see declaration of 'Scheduler'
+H:\My Documents\Development\Marine-master\Booking System\Marine\Scheduler.cpp(16,7): error C2065:  'home': undeclared identifier
+H:\My Documents\Development\Marine-master\Booking System\Marine\Scheduler.cpp(20,17): error C2027:  use of undefined type 'Scheduler'
+H:\My Documents\Development\Marine-master\Booking System\Marine\Scheduler.h(7): message :  see declaration of 'Scheduler'
   Generating Code...
+H:\My Documents\Development\Marine-master\Booking System\Marine\Scheduler.cpp(22,2): error C2065:  'home': undeclared identifier

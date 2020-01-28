@@ -1,27 +1,24 @@
-#include <iostream>;
-#include <cstdlib>;
-using namespace std;
+#pragma once
+#include <iostream>
+#include <cstdlib>
+#include "HomeClass.h"
 
+using namespace std;
 class Scheduler
 {
-	Home home;
 	
+
 
 public:
-	void sethome(Home x)
-	{
-		home = x;
-	}
-	Home gethome(Home x)
-	{
-		x = home;
-		return x;
-	}
-	void RunProgram()
-	{
-	
-	}
+	HomeClass home;
+	void sethome(HomeClass* x);
 
+	void gethome(HomeClass& x);
+
+	//void RunProgram()
+	//{
+	//	home.MainMenu();
+	//}
 
 
 };

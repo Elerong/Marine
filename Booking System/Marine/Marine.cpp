@@ -6,127 +6,19 @@
 #include <list>
 using namespace std;
 void RenderCustomers();
-list<int> L;
-string selection = "Menu";
-#include "Scheduler.h";
-class Home
-{
-    
-    public:
-    void MainMenu()
-    {
-        while (selection == "Menu")
-        {
-
-            //Display the menu with options
-            cout << "1. Create a New Booking" << endl
-                << "2. View Bookings" << endl
-                << "3. Edit Existing Booking" << endl
-                << "4. Get a Quote" << endl
-                << "5. Exit" << endl;
-            cout << "Make a Selection: ";
-            //Ask for input
-            cin >> selection;
-            //After input clear the screen
-            system("cls");
-            //Check the selection
-            switch (selection.at(0))
-            {
-
-            case '1': {break; } //Create Booking
-            case '2': {RenderCustomers(); break; } //View Booking
-            case '3': {break; } //Edit Booking
-            case '4': {break; } //Get a Quote
-            case '5': {system("exit"); //Close the program 
-                break; }
-                    //Any input other than from the list = Display error message
-            default: {cout << "Incorrect Entry!" << endl << "Please try again." << endl << endl;
-                selection = "Menu"; }
-            }
-
-
-
-
-        }
-    }
-
-};
-
+#include "HomeClass.h"
 int main()
 {
-    Scheduler scheduler;
-    Home home;
-    scheduler.gethome(home);
-    scheduler.RunProgram();
-   
-    L.push_back(14); L.push_back(5); L.push_back(22);
+    
+	HomeClass home = *new HomeClass();
+	
+	home.L.push_back(14); home.L.push_back(5); home.L.push_back(22);
 
-    L.push_back(1); L.push_back(1); L.push_back(-7);
-    
-    
-    
+	home.L.push_back(1); home.L.push_back(1); home.L.push_back(-7);
+	home.selection = "Menu";
+	home.MainMenu();
     system("pause");
     return 0;
-}
-void RenderCustomers()
-{
-    for (int i = 0; i < 1; i++)
-    {
-        //Header
-        std::cout << "CUSTOMER NAME" << "    " << "CUSTOMER ID" << endl;
-        for (int s = 0; s < 11; s++)
-        {
-            cout << "***";
-            if (s == 10)
-            {
-                cout << endl;
-                for (int l = 0; l < 10; l++)
-                {
-
-                    if (l < 1) //Number of custome
-                    {
-                        
-                        for (int c = 0; c < L.size(); c++)
-                        {
-
-                            auto current = next(L.begin(), c);
-                            //Customers
-                            std::cout << "Stephen" << "            " << *current << "" << endl;
-                            l++;
-
-                        }
-                        for (int space = 0; space < 10; space++)
-                        {
-
-
-                            cout << "  ";
-
-                        }
-
-                    }
-                    else
-                    {
-
-                        for (int space = 0; space < 10; space++)
-                        {
-
-
-                            cout << "  ";
-                        }
-                    }
-
-
-                    cout << endl;
-
-
-                }
-            }
-
-
-
-
-        }
-    }
 }
 
 
